@@ -9,7 +9,7 @@ body {
   margin: 0;
   font-family: 'Montserrat', Arial, sans-serif;
   background-color: #681b3e;
-  color: #f0f0f0;
+  color: #ca738b;
   background-size: cover;
   background-repeat: repeat-y;
   background-attachment: fixed;
@@ -19,7 +19,7 @@ body {
    NAVBAR
 ========================= */
 .navbar {
-  background-color: #1b1d3a;
+  background-color: #9b3362;
   padding: 1em 2em;
   display: flex;
   justify-content: space-between;
@@ -45,7 +45,7 @@ body {
 }
 
 .navbar-right a:hover {
-  color: #aaaaff;
+  color: #be457b;
 }
 
 /* =========================
