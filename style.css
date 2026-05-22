@@ -19,7 +19,7 @@ body {
    NAVBAR
 ========================= */
 .navbar {
-  background-color: #c04675;
+  background-color: #f6f0cf;
   padding: 1em 2em;
   display: flex;
   justify-content: space-between;
@@ -45,7 +45,7 @@ body {
 }
 
 .navbar-right a:hover {
-  color: #be457b;
+  color: #ca738b;
 }
 
 /* =========================
