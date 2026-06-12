@@ -62,7 +62,7 @@ body {
 ========================= */
 .resource-card {
   background-color: rgba(85, 11, 33, 0.95);
-  margin: 2em auto;
+  margin: 2em ;
   padding: 1.5em;
   border-radius: 12px;
   box-shadow: 0 0 20px rgba(255, 255, 255, 0.09);
